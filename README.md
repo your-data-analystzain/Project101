@@ -13,7 +13,6 @@ I’ve been able to decipher what customers truly feel, pinpointing the main fac
 
 The analysis indicates a significant disparity between negative (60%) and positive (30%) reviews, a surprisingly high recommendation rate of 81% suggests that the company may be effectively converting customers despite negative feedbacks.
 
-Utilizing regression and classification analysis, I’ve been able to decipher what customers truly feel, pinpointing the main factors that drive satisfaction and dissatisfaction.
 
 ➡ Useful Insights : 
 
