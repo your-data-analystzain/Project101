@@ -2,8 +2,8 @@
 # Customer Feedback and Sentiment Analysis
 I’m thrilled to share insights from my latest project, 𝗖𝘂𝘀𝘁𝗼𝗺𝗲𝗿 𝗙𝗲𝗲𝗱𝗯𝗮𝗰𝗸 𝗮𝗻𝗱 𝗦𝗲𝗻𝘁𝗶𝗺𝗲𝗻𝘁 𝗔𝗻𝗮𝗹𝘆𝘀𝗶𝘀. Throughout this analysis, I’ve uncovered crucial insights that can significantly elevate business strategies.
 
-I’ve been able to decipher what customers truly feel, pinpointing the main factors that drive satisfaction and dissatisfaction.
 
+Utilizing regression and classification analysis, I’ve been able to decipher what customers truly feel, pinpointing the main factors that drive satisfaction and dissatisfaction.
 
 # Sentiment Analysis Dashboard
 
