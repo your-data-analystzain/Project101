@@ -9,9 +9,12 @@ I’ve been able to decipher what customers truly feel, pinpointing the main fac
 
 ### Dashboard Link : https://app.powerbi.com/groups/me/reports/d4e4518b-bd15-4121-9356-ad129aafa73c/618d35567b0137c96062?experience=power-bi
 
+
 ## ➡Key Takeaways
 
 The analysis indicates a significant disparity between negative (60%) and positive (30%) reviews, a surprisingly high recommendation rate of 81% suggests that the company may be effectively converting customers despite negative feedbacks.
+
+
 
 
 ➡ Useful Insights : 
